@@ -12,7 +12,7 @@ The Slothberry HTTP headers saver is a Python tool designed to retrieve and save
 4. Run the tool with the following command:
 
    ```bash
-   python slotheaders.py target [--save-dir SAVE_DIR] [--single-thread]
+   python slotheader.py target [--save-dir SAVE_DIR] [--single-thread]
 Replace target with the URL or filepath containing URLs.
 
 Header files will be saved in the specified directory or the current directory.
@@ -30,7 +30,7 @@ To use the tool globally, add it to your system's PATH:
     export PATH="$PATH:/full/path/to/directory"
   On Windows, edit Environment Variables and add the path to the "Path" variable.
 
-3. Restart the terminal and run the tool using `slotheaders.py`. 
+3. Restart the terminal and run the tool using `slotheader.py`. 
  
 ## License
 This tool is open-source under the MIT License.
