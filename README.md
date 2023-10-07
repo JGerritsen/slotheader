@@ -1,5 +1,5 @@
-# Slothberry HTTP headers saver
-The Slothberry HTTP headers saver is a Python tool designed to retrieve and save HTTP headers from given URLs. It can be useful for mass analyzing and storing response headers from web services and websites. This tool supports both single-threaded and multi-threaded processing for handling multiple URLs efficiently.
+# Slotheader HTTP headers saver
+The Slotheader HTTP headers saver is a Python tool designed to retrieve and save HTTP headers from given URLs. It can be useful for mass analyzing and storing response headers from web services and websites. This tool supports both single-threaded and multi-threaded processing for handling multiple URLs efficiently.
 
 ## Usage
 
